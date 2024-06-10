@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmlakciAnaMenu", "EmlakciAnaMenu\EmlakciAnaMenu.csproj", "{363A0353-CA4E-4A2F-97B9-2807763F9A6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvLibb", "EvLibb\EvLibb.csproj", "{EF758745-07A3-4CED-99B4-7B8353361CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363A0353-CA4E-4A2F-97B9-2807763F9A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363A0353-CA4E-4A2F-97B9-2807763F9A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363A0353-CA4E-4A2F-97B9-2807763F9A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363A0353-CA4E-4A2F-97B9-2807763F9A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF758745-07A3-4CED-99B4-7B8353361CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF758745-07A3-4CED-99B4-7B8353361CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF758745-07A3-4CED-99B4-7B8353361CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF758745-07A3-4CED-99B4-7B8353361CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5217BC-2894-4C9E-BBC5-58EFCADE6153}
+	EndGlobalSection
+EndGlobal

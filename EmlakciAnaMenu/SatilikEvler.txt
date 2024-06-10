@@ -1,0 +1,6 @@
+Oda sayısı:4
+Alan:250
+Bina İsmi:GÖKSU
+Kat No:3
+Fiyat:90000
+

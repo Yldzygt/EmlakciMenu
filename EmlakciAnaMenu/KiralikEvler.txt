@@ -1,0 +1,7 @@
+Oda sayısı:3
+Alan:120
+Bina İsmi:Kızıl Apartman
+Kat No:3
+Kira:2000
+Depozito:400
+
